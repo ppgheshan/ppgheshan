@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Gayanthaka Heshan
 
 ## 💫 About Me:
-<br>Currently an undergraduate at University of Vavuniya in Bachelor of Information Communication Technology.<br><br>🌱 I’m currently learning C++ , C , JAVA<br><br>📫 How to reach me ppgheshan@gmail.com<br><br>⚡ Fun fact Programming is very easy.
+<br>Currently an undergraduate at University of Vavuniya in Bachelor of Information Communication Technology.<br><br>🌱 I’m currently learning C++ , C , JAVA , Assembly , mysql , php<br><br>📫 How to reach me ppgheshan@gmail.com<br><br>⚡ Fun fact Programming is very easy.
 
 
 ## 🌐 Socials:
